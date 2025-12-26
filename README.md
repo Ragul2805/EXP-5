@@ -30,8 +30,12 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+![reg char](https://github.com/user-attachments/assets/d6fb5208-1b0a-482f-93bb-faa6d6b91307)
+
 
 V-I & REGULATION CHARACTERISTICS:
+![vi char](https://github.com/user-attachments/assets/fb93ffc2-936d-4870-9566-1a61a90cb03d)
+
 
 PRECAUTIONS:
 
